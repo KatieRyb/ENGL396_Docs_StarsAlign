@@ -10,7 +10,7 @@ Make sure you have downloaded the Ren’Py application from their [official webs
 
 To begin, create your project by **pressing the ‘Create New Project’ button**. **Name the project ‘Stars Align’** when prompted, and then **click on ‘Stars Align’ to select the project** on the left hand side as shown below.
 
-![][image1]
+![Alt text](path/to/task1.png)
 
 You will be using a few specific buttons in the Ren’py game engine:
 
