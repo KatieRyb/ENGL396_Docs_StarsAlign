@@ -16,8 +16,8 @@
 * Puzzles
 
   * [Setup](Setup.md)
-  * [Grid Puzzle](docfour.md)
-  * [Book Puzzle](docfive.md)
+  * [Grid Puzzle](GridPuzzle.md)
+  * [Book Puzzle](Book.md)
   * [Reference](docfive.md)
 
 * User Information
