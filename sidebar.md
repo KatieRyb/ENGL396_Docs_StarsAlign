@@ -2,11 +2,10 @@
 
 ## &nbsp; ENGL 396
 
-* [Home](README.md)
+  * [What is Stars Align?](WhatIsStarsAlign.md)
 
 * Overview of the Project
 
-  * [What is Stars Align?](WhatIsStarsAlign.md)
   * [Developer End](ProgrammerOverview.md)
   * [User End](docthree.md)
   * [Doc Three](TaskDocumentation2.0.md)
