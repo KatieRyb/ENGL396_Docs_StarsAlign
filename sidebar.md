@@ -4,17 +4,20 @@
 
 * [Home](README.md)
 
-* First Group
+* Overview of the Project
 
-  * [Doc One](docone.md)
-  * [Doc Two](doctwo.md)
-  * [Doc Three](docthree.md)
+  * [What is Stars Align?](docone.md)
+  * [Developer End](doctwo.md)
+  * [User End](docthree.md)
   * [Doc Three](TaskDocumentation2.0.md)
   * [Doc Two](doctwo.md)
   * 
-  * 
   
-* Second Group 
+* Puzzles
 
-  * [Doc Four](docfour.md)
-  * [Doc Five](docfive.md)
+  * [Setup](docfour.md)
+  * [Grid Puzzle](docfour.md)
+  * [Book Puzzle](docfive.md)
+  * [Reference](docfive.md)
+
+* User Information
