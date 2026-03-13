@@ -82,10 +82,6 @@ This section will explain the general game loop that the programmer will be expe
     * This can only happen with the proper collection of character traits unlocked  
   * If there will be proper alternative endings is still in development and undecided
 
-[https://www.renpy.org/doc/html/quickstart.html\#:\~:text=If%20this%20is%20your%20first%20time%2C%20Ren'Py%20will%20ask,script%20file%20in%20the%20editor](https://www.renpy.org/doc/html/quickstart.html#:~:text=If%20this%20is%20your%20first%20time%2C%20Ren'Py%20will%20ask,script%20file%20in%20the%20editor).
-
-[https://www.renpy.org/latest.html](https://www.renpy.org/latest.html)
-
 
 
 
