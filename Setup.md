@@ -47,4 +47,9 @@ The **label start indicates where the program begins to run from**. We will not 
 
 If we **want to test the labels or screens** that we will be writing for the Stars Align project, we will be **using the start label as the place to debug our code by calling those methods**.
 
-Now that you have created your first Ren’Py project, let’s add some puzzles to it\! The first puzzle you will be making is a grid puzzle. 
+Now that you have created your first Ren’Py project, let’s add some puzzles to it\! The first puzzle you will be making is a grid puzzle.
+
+# **Puzzles**
+
+Puzzles are screens within the game into which the player can enter and attempt to solve them.
+
