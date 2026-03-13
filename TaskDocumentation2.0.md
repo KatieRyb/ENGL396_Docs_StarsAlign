@@ -10,7 +10,7 @@ Make sure you have downloaded the Ren’Py application from their [official webs
 
 To begin, create your project by **pressing the ‘Create New Project’ button**. **Name the project ‘Stars Align’** when prompted, and then **click on ‘Stars Align’ to select the project** on the left hand side as shown below.
 
-![Alt text](path/to/task1.png)
+![](task1.png)
 
 You will be using a few specific buttons in the Ren’py game engine:
 
@@ -18,10 +18,10 @@ You will be using a few specific buttons in the Ren’py game engine:
 - Images: this will open up your images folder in your game’s folder in your file explorer. This is where you will be putting all your 2D game assets into.  
   - The path to this will look something like: Stars Align (or whatever name the project is) \-\> game \-\> images
 
-![][image2]
+![](task2.png)
 
 This is what clicking on Navigate script will show you currently.  
-![][image3]
+![](task3.png)
 
 If you **double click on script.rpy** it will open up the file in Visual Studio Code. Currently your code will look like this;  
 label start:  
