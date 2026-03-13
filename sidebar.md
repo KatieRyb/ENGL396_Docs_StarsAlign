@@ -9,7 +9,9 @@
   * [Doc One](docone.md)
   * [Doc Two](doctwo.md)
   * [Doc Three](docthree.md)
-  * [Task] (Task Documentation 2.0.md)
+  * [Doc Three](Task Documentation 2.0.md)
+  * 
+  * 
   * 
   
 * Second Group 
