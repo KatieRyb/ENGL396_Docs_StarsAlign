@@ -21,7 +21,7 @@ You will be using a few specific buttons in the Ren’py game engine:
 ![](task2.png)
 
 This is what clicking on Navigate script will show you currently.  
-![][image4]
+![][image4]  
 
 If you **double click on script.rpy** it will open up the file in Visual Studio Code. Currently your code will look like this;  
 label start:  
@@ -62,6 +62,7 @@ Create the Grid Screen:
 ![](task3.png)
 
 Now you should see this, a blank file for code.  
+
     # Ren'Py automatically loads all script files ending with .rpy. To use this  
     # file, define a label and jump to it from another file.
 
