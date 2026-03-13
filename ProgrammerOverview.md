@@ -86,7 +86,7 @@ This section will explain the general game loop that the programmer will be expe
 
 [https://www.renpy.org/latest.html](https://www.renpy.org/latest.html)
 
-:  
+
 
 
 [^1]:  Ren’Py: Ren’Py Visual Novel Engine, or Ren’Py for short is a free and open-source game engine which was specifically designed for the creation of visual novel games.
