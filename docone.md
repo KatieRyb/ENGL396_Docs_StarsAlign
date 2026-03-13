@@ -1,3 +1,3 @@
-# What is Starss Align?
+# What is Stars Align?
 
 Stars Align is a 2D visual novel game that follows the journey of Phoebe who has been ordered to stay in her bedroom where she completes various tasks, like cleaning, writing letters and watering plants. The Astrologer, an ominous, powerful figure, orders the player to stay with Phoebe and assist with whatever she needs help with. However, as the player plays through each new, repetitive day, modifying Phoebe’s personality using astrology, they will uncover secrets and the true reason why Phoebe is restricted to her room. By solving puzzles and riddles the player will be able to confront Phoebe about the reason she is trapped in the room, and potentially even help her escape.
