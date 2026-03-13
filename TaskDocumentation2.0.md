@@ -27,17 +27,17 @@ If you **double click on script.rpy** it will open up the file in Visual Studio 
 label start:  
     scene bg room
 
-    \# This shows a character sprite. A placeholder is used, but you can  
-    \# replace it by adding a file named "eileen happy.png" to the images  
-    \# directory.  
+    # This shows a character sprite. A placeholder is used, but you can  
+    # replace it by adding a file named "eileen happy.png" to the images  
+    # directory.  
     show eileen happy
 
-    \# These display lines of dialogue.  
+    # These display lines of dialogue.  
     e "You've created a new Ren'Py game."
 
     e "Once you add a story, pictures, and music, you can release it to the world\!"
 
-    \# This ends the game.  
+    # This ends the game.  
     return
 
 The **label start indicates where the program begins to run from**. We will not be writing all of our puzzle code here, instead we will **create new labels and screens** that we will **call from the start label**.  
@@ -62,8 +62,8 @@ Create the Grid Screen:
 ![][image4]
 
 Now you should see this, a blank file for code.  
-\# Ren'Py automatically loads all script files ending with .rpy. To use this  
-\# file, define a label and jump to it from another file.
+  # Ren'Py automatically loads all script files ending with .rpy. To use this  
+  # file, define a label and jump to it from another file.
 
 2) Create a screen called puzzle\_board():
 
