@@ -11,7 +11,6 @@
   * [User End](docthree.md)
   * [Doc Three](TaskDocumentation2.0.md)
   * [Doc Two](doctwo.md)
-  * [Developer End](ProgrammerOverview.md)
   
 * Puzzles
 
