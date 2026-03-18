@@ -2,12 +2,12 @@
 
 ## &nbsp; ENGL 396
 
-  * [What is Stars Align? - add chars](WhatIsStarsAlign2.md)
+  * [What is Stars Align?](WhatIsStarsAlign2.md)
 
 * Overview of the Project
 
-  * [Programmer?](ConceptualEditsN.md)
-  * [Player?](ConceptualOverview_Player-finalized2.md)
+  * [Programmer](ConceptualEditsN.md)
+  * [Player](ConceptualOverview_Player-finalized2.md)
   
 * Puzzles
 
