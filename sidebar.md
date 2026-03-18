@@ -6,8 +6,8 @@
 
 * Overview of the Project
 
-  * [What Should I Know as the Programmer?](ConceptualEditsN.md)
-  * [What Should I Know as the Player? -no doc](ConceptualOverview_Player-finalized2.md)
+  * [Programmer?](ConceptualEditsN.md)
+  * [Player?](ConceptualOverview_Player-finalized2.md)
   
 * Puzzles
 
@@ -15,8 +15,8 @@
   * [Grid Puzzle](GridPuzzle.md)
   * [Book Puzzle](Book.md)
   * [Animation](Animation.md)
-  * [Reference - none](docfive.md)
+  * [Reference](Refprog.md)
 
 * User Information
   
-  * [FAQ- none]
+  * [FAQ](ReferenceDocumentation_Player.md)
