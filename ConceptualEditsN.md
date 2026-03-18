@@ -76,7 +76,7 @@ This is the current in-game menu.
 <img src="concept-inGameCurrent.png" width="600" height="600">
 
 This is what it will look like once all the art is completed:
-<img src="concept-inGameFinal.jpg" width="600" height="600"">
+<img src="concept-inGameFinal.jpg" width="600" height="600">
 
 Fates screen **should have**:
 
