@@ -1,4 +1,4 @@
-## *Book  Puzzle*
+## *Book Puzzle*
 
 Book Puzzle is a puzzle in which a player will be able to click on books to switch their order, to put them into the correct order. 
 
