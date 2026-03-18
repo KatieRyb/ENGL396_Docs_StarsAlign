@@ -53,6 +53,7 @@ define gui.main_menu_background = Movie(play = "theMOON.webm", loop=True)
 ```
 
 Now our main screen looks like this:
+[Main Screen](https://drive.google.com/file/d/1SFSx3BQWciEeQAxnf9ytacswF-076A1X/view?usp=sharing)
 
 
 # **Common Animations in Ren’Py**
