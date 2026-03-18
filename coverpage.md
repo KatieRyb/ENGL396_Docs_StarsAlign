@@ -1,12 +1,12 @@
 <!-- _coverpage.md -->
 
-# ENGL 396 <small>Beta</small>
+# Stars Align Game <small>Documentation</small>
 
-> Software Documentation Rocks
+> Enter a world of stars and puzzles
 
-- Clear and concise
-- Well organized
-- Useful titles and opening text
+- Learn what the game is about.
+- Discover how to build the game.
+- FAQ for players.
 
 [Canvas](https://canvas.uw.edu/courses/1805373)
 [Get Started](#home-page)
