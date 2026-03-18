@@ -2,20 +2,20 @@
 
 ## &nbsp; ENGL 396
 
-  * [What is Stars Align?](WhatIsStarsAlign.md)
+  * [What is Stars Align? - add chars](WhatIsStarsAlign.md)
 
 * Overview of the Project
 
-  * [Developer End](ProgrammerOverview.md)
-  * [User End](docthree.md)
-  * [Doc Three](TaskDocumentation2.0.md)
-  * [Doc Two](doctwo.md)
+  * [What Should I Know as the Programmer?](ProgrammerOverview.md)
+  * [What Should I Know as the Player? -no doc](docthree.md)
   
 * Puzzles
 
   * [Setup](Setup.md)
   * [Grid Puzzle](GridPuzzle.md)
   * [Book Puzzle](Book.md)
-  * [Reference](docfive.md)
+  * [Reference - none](docfive.md)
 
 * User Information
+  
+  * [FAQ- none]
