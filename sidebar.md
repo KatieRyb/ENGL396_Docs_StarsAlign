@@ -6,7 +6,7 @@
 
 * Overview of the Project
 
-  * [What Should I Know as the Programmer?](ConceptualOverview_Player-finalized2.md)
+  * [What Should I Know as the Programmer?](ConceptualEditsN.md)
   * [What Should I Know as the Player? -no doc](ConceptualOverview_Player-finalized2.md)
   
 * Puzzles
