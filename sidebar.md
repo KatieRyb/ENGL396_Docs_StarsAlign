@@ -6,6 +6,7 @@
 
 * Overview of the Project
 
+  * [Creator](Development.md)
   * [Programmer](ConceptualEditsN.md)
   * [Player](ConceptualOverview_Player-finalized2.md)
   
