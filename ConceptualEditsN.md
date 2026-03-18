@@ -57,7 +57,7 @@ Overlaid on top of the main menu screen will be a little animation of a white do
 <img src="concept-mainMenuOverlay.jpg" width="600" height="600">
 
 If the player tries to leave the game, the following screen will appear.
-<img src="concept-quitscreen.png" width="300" height="250">
+<img src="concept-quitscreen.png" width="600" height="600">
 
 In game menu **should have**:
 
