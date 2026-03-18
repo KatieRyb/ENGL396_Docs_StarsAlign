@@ -2,7 +2,7 @@
 
 ## &nbsp; ENGL 396
 
-  * [What is Stars Align? - add chars](WhatIsStarsAlign2.md)
+  * [What is Stars Align? - add chars](WhatIsStarsAlign1.md)
 
 * Overview of the Project
 
