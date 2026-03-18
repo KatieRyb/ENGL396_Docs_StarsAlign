@@ -27,6 +27,7 @@ The programmer, after downloading Ren’Py would have access to Visual Studio Co
 
 There is a very long list of all Ren’Py specific or Python equivalent functions, methods and statements which can be found [here](https://www.renpy.org/doc/html/statement_equivalents.html).  
 In the image you will see Statement Equivalents which is the most important section, but if you require functions not listed under that category, or something more complex, then refer to the left side and search under the category ‘Python and Renpy’, it will explain in its database if Ren’Py is incapable of specific function within its game engine, if it has a Ren’Py equivalent, or if it can be written using traditional Python.
+<img src="concept-overviewGUI.png" width="300" height="250">
 
 ## 
 
@@ -46,12 +47,16 @@ Main menu **should have:**
 * Quit
 
 Here is an example of what the current main menu looks like.
+<img src="concept-mainScreenCurrent.png" width="300" height="250">
 
 This is what it will look like once the art for it is complete.
+<img src="concept-mainMenuFinal.jpg" width="300" height="250">
 
 Overlaid on top of the main menu screen will be a little animation of a white dove flying in, sitting on the architecture, and then flying off screen again.
+<img src="concept-mainMenuOverlay.jpg" width="300" height="250">
 
 If the player tries to leave the game, the following screen will appear.
+<img src="concept-quitscreen.png" width="300" height="250">
 
 In game menu **should have**:
 
@@ -67,8 +72,10 @@ In game menu **should not have**:
 * Auto the dialogue (when dialogue plays on its own)
 
 This is the current in-game menu.
+<img src="concept-inGameCurrent.png" width="300" height="250">
 
 This is what it will look like once all the art is completed:
+<img src="concept-inGameFinal.jpg" width="300" height="250">
 
 Fates screen **should have**:
 
@@ -89,12 +96,14 @@ Some character traits that are being considered for the character are:
 
 Based on the character traits present in Phoebe’s star sign, her behaviour, and the character’s access to puzzles, will subsequently change.  
 This is what the ‘Fates’ screen will look like. It consists of a grid that will function as a puzzle, as the player has to figure out the optimal character trait blocks to place into it, and how to maximize the space provided. The actual grid would be 6x6.
+<img src="concept-grid.jpg" width="300" height="250">
 
 Achievements screen **should have**:
 
 * The menu necessary to change a character’s character traits
 
 The Achievements screen will contain various tarot cards of characters or scenes that represent memories or recollections by Phoebe of her life before being restricted to the room you are helping to maintain.
+<img src="concept-achievements.jpg" width="300" height="250">
 
 All screens besides main menu should **not have** access to all the other screens, unless otherwise specified like with in game menu
 
@@ -104,7 +113,8 @@ All screens besides main menu should **not have** access to all the other screen
 
 This section will explain the game’s internal gameplay and story structure. A programmer would need to understand this general loop before beginning development of specific puzzles or game mechanics.
 
-- Introduction (or the tutorial): The player will be greeted by the Astrologer who will explain that they have been assigned to assist 
+- Introduction (or the tutorial): The player will be greeted by the Astrologer who will explain that they have been assigned to assist
+<img src="concept-letter.jpg" width="300" height="250">
 
 - The player opens main menu  
   * Player can enter any of the permitted screens (as listed in game ui)  
@@ -118,8 +128,8 @@ This section will explain the game’s internal gameplay and story structure. A 
   * Player enters the game  
   * Player in the game can now access new information, puzzles and new tasks.  
   * Player completes tasks/puzzles  
-  * The day/loop ends when the player completes all the originally assigned tasks (clean the room)  
-  * Ending\!
+  * The day loop ends when the player completes all the originally assigned tasks (clean the room)  
+  * Ending!
 
 There will be a variety of puzzles in this game once it is fully completed. Currently only two of the puzzles are properly finished, the rest being in progress. Here is the complete list of puzzles and how they should operate:
 
