@@ -6,7 +6,7 @@
 
 * Overview of the Project
 
-  * [What Should I Know as the Programmer?](ConceptualDocProgrammer2.0.md)
+  * [What Should I Know as the Programmer?](Conceptual.md)
   * [What Should I Know as the Player? -no doc](docthree.md)
   
 * Puzzles
