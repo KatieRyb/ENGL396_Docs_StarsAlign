@@ -14,6 +14,7 @@
   * [Setup](Setup.md)
   * [Grid Puzzle](GridPuzzle.md)
   * [Book Puzzle](Book.md)
+  * [Animation](Animation.md)
   * [Reference - none](docfive.md)
 
 * User Information
