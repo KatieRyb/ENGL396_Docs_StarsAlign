@@ -1,4 +1,4 @@
-# <a id="home-page"></a> Home Page
+
 
 > This is the home page.
 
