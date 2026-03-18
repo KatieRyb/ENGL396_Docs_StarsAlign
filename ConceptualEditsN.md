@@ -28,7 +28,7 @@ The programmer, after downloading Ren’Py would have access to Visual Studio Co
 There is a very long list of all Ren’Py specific or Python equivalent functions, methods and statements which can be found [here](https://www.renpy.org/doc/html/statement_equivalents.html).  
 In the image you will see Statement Equivalents which is the most important section, but if you require functions not listed under that category, or something more complex, then refer to the left side and search under the category ‘Python and Renpy’, it will explain in its database if Ren’Py is incapable of specific function within its game engine, if it has a Ren’Py equivalent, or if it can be written using traditional Python.
 
-<img src="concept-overviewGUI.png" width="450" height="300">
+<img src="concept-overviewGUI.png" width="800" height="700">
 
 ## 
 
