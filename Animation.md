@@ -16,6 +16,7 @@ Adding an animation to the menu screen in Ren’Py can feel very complicated bec
 
 1) Open up gui.rpy. You should see this at the very top.
 
+```
 \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
 \#\# Initialization  
 \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#
@@ -23,9 +24,11 @@ Adding an animation to the menu screen in Ren’Py can feel very complicated bec
 \#\# The init offset statement causes the initialization statements in this file  
 \#\# to run before init statements in any other file.  
 init offset \= \-2
+```
 
 2) Scroll or search for ‘Main and Game Menus’. You should find this:
 
+```
 \#\# Main and Game Menus \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#
 
 \#\# The images used for the main and game menus.
@@ -33,19 +36,24 @@ init offset \= \-2
 \#TODO:ANIMATION CHANGES HERE FOR MAIN MENU  
 define gui.main\_menu\_background \= "gui/main\_menu.png"  
 define gui.game\_menu\_background \= "gui/game\_menu.png"
+```
 
-3) We will replace the gui.main\_menu\_background with our video.
+3) We will replace the gui.main_menu_background with our video.
 
-\#TODO:ANIMATION CHANGES HERE FOR MAIN MENU  
-\#define gui.main\_menu\_background \= "gui/main\_menu.png"  
-define gui.game\_menu\_background \= "gui/game\_menu.png"  
-define gui.main\_menu\_background \= Movie(\#Add arguments)
+```
+#TODO:ANIMATION CHANGES HERE FOR MAIN MENU  
+#define gui.main_menu_background = "gui/main_menu.png"  
+define gui.game_menu_background = "gui/game_menu.png"  
+define gui.main_menu_background = Movie(#Add arguments)
+```
 
 4) Now add the arguments being passed into the variable, so that it can play a video when it is called. We set ‘play’ to be equal to the location and name of the video file. We also set the loop to be equal to ‘True’ so that the video keeps repeating and doesn’t just stop after playing through once.
-
-define gui.main\_menu\_background \= Movie(play \= "theMOON.webm", loop\=True)
+```
+define gui.main_menu_background = Movie(play = "theMOON.webm", loop=True)
+```
 
 Now our main screen looks like this:
+
 
 # **Common Animations in Ren’Py**
 
