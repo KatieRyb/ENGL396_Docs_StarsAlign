@@ -1,6 +1,6 @@
 <!-- _sidebar.md -->
 
-## &nbsp; ENGL 396
+## &nbsp; Stars Align
 
   * [What is Stars Align?](WhatIsStarsAlign2.md)
 
