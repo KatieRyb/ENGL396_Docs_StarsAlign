@@ -9,4 +9,4 @@
 - FAQ for players.
 
 [Canvas](https://canvas.uw.edu/courses/1805373)
-[Get Started](#home-page)
+[Get Started](WhatIsStarsAlign2.md)
