@@ -1,8 +1,4 @@
-# **Task Documentation \- Programmer**
-
-## Stars Align Video Game
-
-# **Introduction**
+# **Setup**
 
 Make sure you have downloaded the Ren’Py application from their [official website](https://www.renpy.org/latest.html), as in this document you will be taught how to build two of the puzzles in the Stars Align game.
 
