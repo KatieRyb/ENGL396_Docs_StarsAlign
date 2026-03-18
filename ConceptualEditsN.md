@@ -51,7 +51,7 @@ Here is an example of what the current main menu looks like.
 <img src="concept-mainScreenCurrent.png" width="800" height="400">
 
 This is what it will look like once the art for it is complete.
-<img src="concept-mainMenuFinal.jpg" width="600" height="400">
+<img src="concept-mainMenuFinal.jpg" width="400" height="250">
 
 Overlaid on top of the main menu screen will be a little animation of a white dove flying in, sitting on the architecture, and then flying off screen again.
 
@@ -76,7 +76,7 @@ In game menu **should not have**:
 
 This is the current in-game menu.
 
-<img src="concept-inGameCurrent.png" width="600" height="600">
+<img src="concept-inGameCurrent.png" width="800" height="400">
 
 This is what it will look like once all the art is completed:
 
