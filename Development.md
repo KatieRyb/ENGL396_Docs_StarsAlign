@@ -5,4 +5,5 @@
 Due to this game being developed by one person the game is being developed part by part, divided up by puzzles. Each week a specific puzzle is researched and it is broken down into its core pieces. Example puzzles are also saved and analyzed. After about a week the design for the general mechanism by which a puzzle should work is completed and Katie spends about another week actually writing the code and testing it to make sure it works with the rest of the game created thus far.
 
 
+
 # 
