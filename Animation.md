@@ -1,6 +1,6 @@
 # **Animation in Ren’Py**
 
-Adding an animation to the menu screen in Ren’Py can feel very complicated because Ren’Py as a game engine is not built to handle videos or gifs intuitively. However, it is possible\! but here is a very simplified explanation of how to do 
+Adding an animation to the menu screen in Ren’Py can feel very complicated because Ren’Py as a game engine is not built to handle videos or gifs intuitively. However, it is possible! Here is a very simple explanation of how to add an animation to Ren'Py.
 
 # **File Setup**
 
@@ -17,25 +17,25 @@ Adding an animation to the menu screen in Ren’Py can feel very complicated bec
 1) Open up gui.rpy. You should see this at the very top.
 
 ```
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#  
-\#\# Initialization  
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#
+################################################################################################################################################# Initialization  
+#################################################################################################################################################
 
-\#\# The init offset statement causes the initialization statements in this file  
-\#\# to run before init statements in any other file.  
-init offset \= \-2
+## The init offset statement causes the initialization statements in this file  
+## to run before init statements in any other file.  
+init offset = -2
 ```
 
 2) Scroll or search for ‘Main and Game Menus’. You should find this:
 
 ```
-\#\# Main and Game Menus \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#
+## Main and Game Menus
+############################################################################################################
 
-\#\# The images used for the main and game menus.
+## The images used for the main and game menus.
 
-\#TODO:ANIMATION CHANGES HERE FOR MAIN MENU  
-define gui.main\_menu\_background \= "gui/main\_menu.png"  
-define gui.game\_menu\_background \= "gui/game\_menu.png"
+#TODO:ANIMATION CHANGES HERE FOR MAIN MENU  
+define gui.main_menu_background = "gui/main_menu.png"  
+define gui.game_menu_background = "gui/game_menu.png"
 ```
 
 3) We will replace the gui.main_menu_background with our video.
