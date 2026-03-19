@@ -25,22 +25,22 @@ Here are some common questions that I hope I can answer for any potential new pl
 
 ## *What is the goal?*
 
-- Your goal as the player is to help the main character to tidy up the room, and eventually leave said room \- uncovering the reason she is so insistent not to.  
+- Your goal as the player is to help the main character to tidy up the room, and eventually leave said room therby uncovering the reason she is so insistent not to.  
 - Your short term goals consist of solving puzzles.
 
 ## *What do these things mean?*
 
-- **Constellations screen**; a screen where you can change the characteristics/personality of the character you are interacting with in the room.
+- **Constellations screen**: this is the grid puzzle. It is the screen where you can change the characteristics/personality of Phoebe.
 
 ![][image1]
 
-- **Inventory**; in the storybook sequence the player can collect items by clicking on them and saving them to an inventory.  
-- **Achievements**; a screen where you can see what collected achievements you have unlocked and what/how many you still have left to discover.  
-- **Preferences**; a screen where you can adjust the following;  
+- **Inventory**: in the storybook sequence the player can collect items by clicking on them and saving them to an inventory.  
+- **Achievements**: a screen where you can see what collected achievements you have unlocked and what/how many you still have left to discover.  
+- **Preferences**: a screen where you can adjust the following;  
   - volume of sound, music and voices  
   - text speed, and auto-forward time  
   - you can make the game look fullscreen, or as a window  
-  - adjust what type of text you want to skip (unseen text, after choices, transitions)
+  - what type of text you want to skip (unseen text, after choices, transitions)
 
 ![][image2]
 
@@ -59,7 +59,7 @@ Here are some common questions that I hope I can answer for any potential new pl
 
 ## *Where can I find my gameplay statistics?*
 
-- The game does not keep track of your playing statistics. However, on Steam and Itch.io they have built in trackers for how much time you spend playing a game.
+- The game does not keep track of your playing statistics. However, on Steam they have built in trackers for how much time you spend playing a game.
 
 ## *How long does this game take?*
 
