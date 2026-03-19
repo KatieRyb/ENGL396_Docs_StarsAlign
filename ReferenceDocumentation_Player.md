@@ -6,7 +6,7 @@ Here are some common questions that I hope I can answer for any potential new pl
 
 ## *How do I install the game?*
 
-- Use steam to download the game.  
+- Please reference the following guide [here](Installation.md) for more information.  
 - The game can run on the following systems:  
   - Windows 10 or later  
   - macOS 10.10 or later  
