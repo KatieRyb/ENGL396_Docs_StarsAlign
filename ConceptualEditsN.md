@@ -1,4 +1,4 @@
-# **Introduction**
+# **What Should I Know as the Player?**
 
 This conceptual overview summarizes the most important technical details about ‘Stars Align’, that a game developer would need to know in order to set up their workspace to create it and understand what the project is about. A programmer should read this if they are new to the project and want to gain a base understanding of how ‘Stars Align’ is meant to look and operate when it is complete.
 
