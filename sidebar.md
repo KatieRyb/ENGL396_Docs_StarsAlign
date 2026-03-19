@@ -21,3 +21,4 @@
 * User Information
   
   * [FAQ](ReferenceDocumentation_Player.md)
+  * [Installation](Installation.md)
