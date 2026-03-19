@@ -6,8 +6,9 @@ Stars Align is a 2D visual novel game that follows the journey of Phoebe who has
 # **Meet the Characters**
 
 ## *Astrologer*
-<img src="Astrologer.jpg" width="350" height="350">
 An elusive scientist who rarely shows his face, preferring to communicate using letters. Under his orders you are instructed to assist Phoebe with her day to day tasks around her room. The only caveat? You are to stay there until given permission to leave.
+
+<img src="Astrologer.jpg" width="350" height="350">
 
 ## *Phoebe*
 
