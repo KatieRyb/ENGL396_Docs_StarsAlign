@@ -20,5 +20,6 @@
 
 * User Information
   
-  * [FAQ](ReferenceDocumentation_Player.md)
   * [Installation](Installation.md)
+  * [FAQ](ReferenceDocumentation_Player.md)
+  
