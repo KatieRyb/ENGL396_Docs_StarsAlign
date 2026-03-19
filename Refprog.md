@@ -4,6 +4,7 @@
 
 Here is a database of all the variables and functions used in the [grid puzzle](GridPuzzle.md) and the [book puzzle](Book.md). It contains all of the variables with their respective value, with more complex ones like lists having a miniature explanation provided as well. Functions are explained only by their purpose, the whole code for them is not included. Use this to check you have all the necessary pieces to run the code at the end or as a guide for what variables and functions should look like when you are creating your own screens.
 
+
 # **Grid Puzzle:**
 
 ## *Variables*
@@ -38,6 +39,7 @@ Here is a database of all the variables and functions used in the [grid puzzle](
                 “Square”: { “shape”: [ (-1,-1), (0,-1), (-1,0), (0,0) ] “image”: “Squarepuzzlepiece.png” },   
                 “Horizontal”: { “shape”: [ (0,0), (-1,-1), (0,-1), (1,-1) ], “image”: “Horizontal.png”} }:  the dictionary for all the pieces that can be dropped onto the grid.
 
+
 ## *Functions*
 
 **can_place(board, shape, x, y)**: returns True/False depending on if a piece can or cannot be placed onto the grid. 
@@ -48,6 +50,8 @@ remove_piece(board, piece_name): removes a piece from the grid and adds it back 
 **make_drop_callback(x,y)**: this function is called by the screen when a player attempts to drag and drop the piece onto the grid. It then calls the nested function inside of it.
 
 - **callback(drop_target, drags)**: nested inside make_drop_callback, it calls on can_place(), pleace_piece() and remove_piece() to actually add pieces to the grid if they can be placed. It also notifies the developer on what coordinates the piece is being dropped.
+
+
 
 # **Book Puzzle:**
 
@@ -62,6 +66,7 @@ remove_piece(board, piece_name): removes a piece from the grid and adds it back 
 **book_images** = { “A”: “bookA.png”, “B”: “bookB.png”, “C”: “bookC.png”,}: the list of all the book images when the book is not selected.
 
 **book_selected_images** = { “A”: “bookA_selected.png”, “B”: “bookB_selected.png”, “C”: “bookC_selected.png”,}: the list of all the book images when the book is selected.
+
 
 ## *Functions*
 
