@@ -2,6 +2,7 @@
 
 Here are some common questions that I hope I can answer for any potential new players before or during your playthrough of this game.
 
+
 # **FAQ**
 
 ## *How do I install the game?*
