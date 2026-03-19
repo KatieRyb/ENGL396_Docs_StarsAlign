@@ -1,7 +1,3 @@
-# **Reference Documentation \- Player**
-
-## Stars Align Video Game
-
 # **Introduction**
 
 Here are some common questions that I hope I can answer for any potential new players before or during your playthrough of this game.
