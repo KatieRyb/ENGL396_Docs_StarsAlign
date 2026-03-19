@@ -48,7 +48,7 @@ This is what it will look like once the art for it is complete.
 
 <img src="concept-mainMenuFinal.jpg" width="600" height="375">
 
-Overlaid on top of the main menu screen will be a little animation of a white dove flying in, sitting on the architecture, and then flying off the screen again.
+Overlaid on top of the main menu screen will be a little animation of a white dove flying in, sitting on the architecture, and then flying off the screen again. [Here](Animation.md) is more information on animations and how to add them in Ren'Py.
 
 <img src="concept-mainMenuOverlay.jpg" width="600" height="375">
 
@@ -135,8 +135,8 @@ This section will explain the game’s internal gameplay and story structure. A 
   * Ending!
 
 There will be a variety of puzzles in this game once it is fully completed. Currently only two of the puzzles are properly finished, the rest being in progress. Here is the complete list of puzzles and how they should operate:
-* **Grid**: the screen where the player can select what character traits to give Phoebe.  
-* Books: the screen where the player can swap books to place them in the correct order based on their titles.   
+* [**Grid**](GridPuzzle.md): the screen where the player can select what character traits to give Phoebe.  
+* [**Books**](Book.md): the screen where the player can swap books to place them in the correct order based on their titles.   
 * **Candles**: the screen where the player can light candles in a specific order based on the clue on a matchbox.  
 * **Gears**: the screen where the player can put gears into their correct slots, which makes them all spin.  
 * **Cleaning**: a screen on which the player has to click and collect miscellaneous items Phoebe has scattered across the room.  
