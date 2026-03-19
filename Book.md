@@ -2,7 +2,7 @@
 
 Book Puzzle is a puzzle in which a player will be able to click on books to switch their order, to put them into the correct order. 
 
-The Setup:
+**The Setup:**
 
 1) Create a new script, like before, and name it ‘bookPuzzle.rpy’.  
 2) Remove any auto generated code and create a new screen.
@@ -27,6 +27,7 @@ label start:
     return
 ```
 Here is an example of how my screen looks like (white background with a brown bookshelf) when the screen is launched.  
+
 ![][image13]
 
 5) Design your three books, and what they look like if they are selected (clicked on by the user). This is what the books I will be using look like for example. The darker colored counterpart is the selected version of the book.
@@ -63,7 +64,7 @@ first_choice = None
 ```
 Now let us create a function that allows the books to be swapped.
 
-Declaring The Swap Function:
+**Declaring The Swap Function:**
 
 1) Declare in the ‘init python:’ block the swap_books() function. Pass into it an ‘index’ value. This index value is going to be passed in later from the screen, with it being either equal to the first book that the player clicks on, or the second one.
 ```
@@ -94,7 +95,7 @@ def swap_books(index):
 ```
 Now that we have set everything up and created our function, let’s put it into action in the actual screen.
 
-Adding Everything to the Screen:
+**Adding Everything to the Screen:**
 
 1) Declare a fixed block in the bookPuzzle() screen. 
 
@@ -128,7 +129,7 @@ fixed:
                 $ idle_img = book_images[book]  
                 $ hover_img = book_images[book]
 ```
-7) Declare the book to be an imagebutton so that we can call the swap\_books() function, if the book is clicked.
+7) Declare the book to be an imagebutton so that we can call the swap_books() function, if the book is clicked.
 ```
             # Bottom-align the book  
             imagebutton:
@@ -152,10 +153,13 @@ fixed:
             $ xpos_row += w
 ```
 Now that you have added all these lines of code you should have a functioning book puzzle! Your screen should look like this.  
+
 ![][image20]  
+
 This is what it looks like when I select A, and swap it with C. A is clearly selected in this image
 
 ![][image21]  
+
 A and C have been swapped and the player has been notified that the books have been put into the proper order (alphabetical).
 
 ![][image22]
