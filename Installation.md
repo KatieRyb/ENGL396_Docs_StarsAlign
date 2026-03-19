@@ -3,6 +3,7 @@
 While the game itself is not completed, I will walk you through the basic steps of how to download a game on the two platforms (Itch.io and Steam, where ‘Stars Align’ will be available once it is completed. I will be using two example games ‘Ignore the blackbird’ and ‘Doki Doki Literature Club’, that are similar to ‘Stars Align’ in aesthetic and gameplay.
 
 
+
 # **How to Play the Game on Itch.io?**
 
 1) Go to the [Itch.io](http://Itch.io) page. Search for the game you are interested in. Since ‘Stars Align’ is not out yet, I will show you the search for a similar style of game, ‘Ignore the blackbird’.
@@ -24,6 +25,7 @@ While the game itself is not completed, I will walk you through the basic steps 
 5) Once the file is unzipped, enter the unzipped folder and double click on the ‘Application’ file and the game will launch.
 
 ![][image5]
+
 
 
 # **How to Play the Game on Steam?**
