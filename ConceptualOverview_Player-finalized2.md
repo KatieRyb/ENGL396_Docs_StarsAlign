@@ -1,9 +1,5 @@
 # **What Should I Know as the Player?**
 
-## Stars Align Video Game
-
-# **Introduction**
-
 While the game is not complete yet, this is a basic run-down of information that a player should know before deciding to play ‘Stars Align’. This page will explain the technology necessary to run the game, as well as in more detail the type of game it is and if it fits the player’s interests. This page is also helpful to programmers who are trying to understand the player’s perspective of the product. This information will be made available on the game’s launch page, once it is ready.
 
 # **Technology**
